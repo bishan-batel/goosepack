@@ -7,7 +7,7 @@
 		"1": "block/pumpkin_top",
 		"3": "block/jack_o_lantern",
 		"4": "block/torch",
-		"particle": "./block/pumpkin_side"
+		"particle": "block/pumpkin_side"
 	},
 	"elements": [
 		{
