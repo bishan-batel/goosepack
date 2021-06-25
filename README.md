@@ -5,4 +5,4 @@ Minecraft unobtrusive texture pack that adds little easter-eggs, quality of life
 ## Credits for 3rd party animations / models used
 - "Jack o'lantern" by YanMaojie
   Available for download at https://blockmodels.com.com/model/543/
--
+- 
