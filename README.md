@@ -10,3 +10,5 @@ Minecraft unobtrusive texture pack that adds little easter-eggs, quality of life
   Available for download at https://blockmodels.com/model/553/
 - "M82" by 02h30
   Available for download at https://blockmodels.com/model/679/
+- "Inosukes Sword (Demon Slayer)" by Gengar
+  Available for download at https://blockmodels.com/model/606/
