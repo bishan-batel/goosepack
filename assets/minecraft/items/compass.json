@@ -1,0 +1,23 @@
+  {
+    "model": {
+      "type": "minecraft:range_dispatch",
+      "property": "minecraft:compass",
+      "target": "spawn",
+      "wobble": true,
+      "scale": 1,
+      "entries": [
+        {
+          "threshold": 0,
+          "model": {
+            "type": "minecraft:item/diamond"
+          }
+        },
+        {
+          "threshold": 0.5,
+          "model": {
+            "type": "minecraft:item/netherite"
+          }
+        }
+      ]
+    }
+  }

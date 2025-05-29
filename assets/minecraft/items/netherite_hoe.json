@@ -1,0 +1,27 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_name",
+    "cases": [
+      {
+        "when": "Goose Hoe",
+        "model": {
+          "type": "minecraft:model",
+          "model": "goos:item/tools/goose_hoe"
+        }
+      },
+      {
+        "when": "Compass",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/compass"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/netherite_hoe"
+    }
+  }
+}

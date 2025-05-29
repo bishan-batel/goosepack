@@ -1,0 +1,27 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_name",
+    "cases": [
+      {
+        "when": "shitaxe",
+        "model": {
+          "type": "minecraft:model",
+          "model": "goos:item/tools/inverted_diamond_pickaxe"
+        }
+      },
+      {
+        "when": "pissaxe",
+        "model": {
+          "type": "minecraft:model",
+          "model": "goos:item/tools/pissaxe"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/diamond_pickaxe"
+    }
+  }
+}
